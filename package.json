@@ -50,7 +50,7 @@
     "karma-mocha-reporter": "^2.2.5",
     "karma-rollup-preprocessor": "^7.0.5",
     "mocha": "5.2.0",
-    "node-fetch": "^2.6.1",
+    "node-fetch": "^3.1.1",
     "nyc": "^15.1.0",
     "prettier": "^2.1.1",
     "rimraf": "^3.0.2",
